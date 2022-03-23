@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/qr-code-generator-using-html-css-and-jquery/
